@@ -1,0 +1,1 @@
+{"mae": 720.94, "rmse": 987.27, "r2": 0.1171, "train_rows": 800000, "model_type": "RandomForestRegressor", "feature_importance": {"region_code": 0.02225111244207821, "location_type": 0.18481640395598095, "product_code": 0.3981827964178832, "year": 0.3779256919567928, "month": 0.01682399522726469}}
