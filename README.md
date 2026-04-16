@@ -56,7 +56,7 @@
    ```
 6. Запустите сервер:
    ```bash
-   uvicorn app.main:app --reload
+   uvicorn main:app --reload
    ```
    * *Backend будет доступен по адресу:* `http://localhost:8000`
    * *Документация API (Swagger):* `http://localhost:8000/docs`
